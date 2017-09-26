@@ -1,0 +1,62 @@
+body {
+	background-color: #313131;
+}
+#wrapper {
+	background-color: white;
+	margin: 0px 50px;
+}
+
+#divHead {
+	height: 70px;
+    margin-top: -15px;
+    background-color: #e6e6e6;
+}
+
+nav {
+	float: right;
+    position: relative;
+    right: 20px;
+    padding-top: 10px;
+}
+
+nav li {
+	float: left;
+	margin-left: 30px;
+}
+nav a {
+	margin-left: -5px;
+	text-decoration:none;
+}
+
+img#img_nav {
+	width: 70px;
+}
+
+
+.chapter {
+	box-shadow: inset -1px 0px 0px 5px #d0cccc;
+	border: 20px solid #7b7b7b;
+	padding: 15px;
+}
+
+
+table,table tr th, table tr td { 
+	border: 1px solid black; 
+	border-collapse: collapse;
+}
+
+#Copyright{
+	height: 70px;
+	color: white;
+	background-color: black;
+	text-align: center;
+	line-height: 70px;
+}
+
+.input_info {
+	width: 100%;
+}
+
+.input_info label {
+	width: 50%;
+}

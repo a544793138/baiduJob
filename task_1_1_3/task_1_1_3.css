@@ -1,0 +1,57 @@
+body {
+	font-family: "Microsoft YaHei";
+	font-size: 14px;
+	padding: 20px;
+	margin: 0;
+}
+
+img {
+	width: 80px;
+	height: 80px;
+}
+
+div#set3box {
+	padding: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+	overflow: hidden;
+}
+
+div#teamLogo {
+	width: 158px;
+    padding: 20px;
+    border: 1px solid #999;
+    background-color: #fff;
+    float: left;
+}
+
+span#teanName {
+	float: right;
+}
+
+div#context {
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #fff;
+	margin-left: 220px;
+    margin-right: 141px;
+}
+
+div#myLogo {
+	width: 78px;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #fff;
+	float: right;
+    padding-bottom: 0px;
+}
+
+#myLogo ul {
+	list-style: none;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+#myLogo ul li {
+	padding-bottom: 20px;
+}
